@@ -1,0 +1,13 @@
+com\mindtree\classapp\entity\Class1.class
+com\mindtree\classapp\entity\Student.class
+com\mindtree\classapp\ClasssappApplication.class
+com\mindtree\classapp\service\StudentService.class
+com\mindtree\classapp\service\serviceimpl\StudentServiceImpl.class
+com\mindtree\classapp\repository\StudentRepository.class
+com\mindtree\classapp\repository\Class1Reposistory.class
+com\mindtree\classapp\dto\StudentDto.class
+com\mindtree\classapp\controller\StudentController.class
+com\mindtree\classapp\service\Class1Service.class
+com\mindtree\classapp\dto\Class1Dto.class
+com\mindtree\classapp\service\serviceimpl\Class1ServiceImpl.class
+com\mindtree\classapp\ServletInitializer.class
