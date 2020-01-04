@@ -1,0 +1,16 @@
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\dto\CollegeDto.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\CollegeAppApplication.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\repository\StudentRepository.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\dto\LabDto.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\entity\Student.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\repository\CollegeRepository.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\dto\StudentDto.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\controller\CollegeController.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\entity\College.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\ServletInitializer.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\service\CollegeService.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\service\LabService.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\entity\Lab.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\service\serviceimpl\CollegeServiceImpl.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\service\StudentService.java
+D:\Spring Boot MVC\CollegeApp\src\main\java\com\mindtree\springbootmvc\repository\LabRepository.java

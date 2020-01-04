@@ -1,0 +1,77 @@
+# Created at 2019-12-20T00:35:47.554
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: null
+java.io.EOFException
+	at java.io.DataInputStream.readInt(DataInputStream.java:392)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:391)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+# Created at 2019-12-20T00:35:48.093
+Unexpected IOException with stream: 2019-12-20 00:35:48.089  INFO 9296 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+
+
+# Created at 2019-12-20T00:35:48.187
+Unexpected IOException with stream: 2019-12-20 00:35:48.187  INFO 9296 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 84ms. Found 3 JPA repository interfaces.
+
+
+# Created at 2019-12-20T00:35:48.622
+Unexpected IOException with stream: 2019-12-20 00:35:48.622  INFO 9296 --- [           main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+
+# Created at 2019-12-20T00:35:48.896
+Unexpected IOException with stream: 2019-12-20 00:35:48.896  INFO 9296 --- [           main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+
+
+# Created at 2019-12-20T00:35:48.976
+Unexpected IOException with stream: 2019-12-20 00:35:48.975  INFO 9296 --- [           main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.4.9.Final}
+
+
+# Created at 2019-12-20T00:35:49.187
+Unexpected IOException with stream: 2019-12-20 00:35:49.187  INFO 9296 --- [           main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+
+
+# Created at 2019-12-20T00:35:50.033
+Unexpected IOException with stream: 2019-12-20 00:35:50.033  INFO 9296 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+
+
+# Created at 2019-12-20T00:35:50.252
+Unexpected IOException with stream: 2019-12-20 00:35:50.251  INFO 9296 --- [           main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+
+
+# Created at 2019-12-20T00:35:50.266
+Unexpected IOException with stream: 2019-12-20 00:35:50.266  INFO 9296 --- [           main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+
+
+# Created at 2019-12-20T00:35:51.071
+Unexpected IOException with stream: 2019-12-20 00:35:51.069  INFO 9296 --- [           main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+
+
+# Created at 2019-12-20T00:35:51.093
+Unexpected IOException with stream: 2019-12-20 00:35:51.092  INFO 9296 --- [           main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+
+
+# Created at 2019-12-20T00:35:51.741
+Unexpected IOException with stream: 2019-12-20 00:35:51.740  WARN 9296 --- [           main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+
+
+# Created at 2019-12-20T00:35:52.027
+Unexpected IOException with stream: 2019-12-20 00:35:52.027  INFO 9296 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+
+
+# Created at 2019-12-20T00:35:52.380
+Unexpected IOException with stream: 2019-12-20 00:35:52.380  INFO 9296 --- [           main] c.m.s.CollegeAppApplicationTests         : Started CollegeAppApplicationTests in 5.283 seconds (JVM running for 6.255)
+
+
+# Created at 2019-12-20T00:35:52.403
+Unexpected IOException: 5,1,com.mindtree.springbootmvc.CollegeAppApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2019-12-20T00:35:52.465
+Unexpected IOException: 6,1,com.mindtree.springbootmvc.CollegeAppApplicationTests,contextLoads,null,null,null
+
+
+# Created at 2019-12-20T00:35:52.465
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,com.mindtree.springbootmvc.CollegeAppApplicationTests,null,null,null
+
+

@@ -1,0 +1,16 @@
+com\mindtree\springbootmvc\entity\Student.class
+com\mindtree\springbootmvc\service\StudentService.class
+com\mindtree\springbootmvc\repository\StudentRepository.class
+com\mindtree\springbootmvc\entity\Lab.class
+com\mindtree\springbootmvc\service\LabService.class
+com\mindtree\springbootmvc\ServletInitializer.class
+com\mindtree\springbootmvc\CollegeAppApplication.class
+com\mindtree\springbootmvc\repository\LabRepository.class
+com\mindtree\springbootmvc\dto\LabDto.class
+com\mindtree\springbootmvc\entity\College.class
+com\mindtree\springbootmvc\service\CollegeService.class
+com\mindtree\springbootmvc\controller\CollegeController.class
+com\mindtree\springbootmvc\service\serviceimpl\CollegeServiceImpl.class
+com\mindtree\springbootmvc\dto\StudentDto.class
+com\mindtree\springbootmvc\dto\CollegeDto.class
+com\mindtree\springbootmvc\repository\CollegeRepository.class
